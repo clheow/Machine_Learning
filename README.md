@@ -55,9 +55,7 @@ Beberapa algoritma yang digunakan:
 
 ## 🔍 Hyperparameter Tuning
 Menggunakan:
-- GridSearchCV
-- Cross Validation (cv=2)
-
+- RandomizedSearchCV
 Untuk mencari parameter terbaik pada setiap model.
 
 ---
