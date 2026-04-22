@@ -1,8 +1,7 @@
 📂 Dataset
+Mohon maaf, dataset tidak disertakan dalam repository karena ukuran besar (>100MB) 🙏.
 
-Mohon maaf,dataset tidak disertakan dalam repository karena ukuran besar (>100MB) 🙏.
-
-Dataset dapat diakses di:
+Dataset dapat diakses pada link berikut:
 [https://link-dataset-kamu](https://www.kaggle.com/datasets/usdot/flight-delays?select=flights.csv)
 
 ## 📌 Deskripsi Proyek
